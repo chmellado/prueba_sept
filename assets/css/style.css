@@ -1,0 +1,69 @@
+body{
+  /* font-family: 'Oswald', sans-serif; */
+  font-family: 'Hepta Slab', serif;
+}
+nav .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
+.brand_propio {
+  color: black;
+  font-weight: 900;
+  font-size: 2rem;
+  margin-left: 3rem;
+}
+.mi_nombre {
+  font-family: 'Oswald', sans-serif;
+  max-width: 100%;
+  height: 737px;
+  background-image: url('../img/1280x737.png');
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position:  top;
+}
+.margen_yo{
+  position:relative;
+  top:500px;
+}
+.fab {
+  color: black;
+}
+.linea {
+  border: 1px solid #014e04;
+  width: 7rem;
+}
+.linea2{
+  border: 1px solid #014e04;
+  width: 18rem;
+}
+.linea3{
+  border: 1px solid #fff;
+  width: 7rem;
+}
+.parrafo_mi {
+  text-align: justify;
+  text-overflow: clip;
+  line-height:2.5rem;
+}
+
+.time_exper{
+    position: relative;
+    top:50px;
+}
+
+#trabajos h1 {
+  color: White;
+  font-weight: 900;
+}
+
+/*       DEMOS          */
+* {
+  /* border: 1px solid red; */
+}
+
+.logo2{
+  height: 167px;
+}
+
+footer a:hover {
+  color: #000;
+}
